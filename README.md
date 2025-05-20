@@ -16,8 +16,6 @@ A structured approach to deploying and securing an Ubuntu Server 20.04 instance 
 - Log rotation, automated updates, and security tools (`lynis`, `nmap`)
 - Achieved hardened system score >78
 
-📂 Folder: `lab01-hardening/`
-
 ---
 
 ## 📊 Lab 02 – Risk Assessment with ISO27001 + FMEA
@@ -30,15 +28,11 @@ This lab analyzes a simulated cosmetics production company and applies full secu
 - Impact assessment and control mapping (FMEA)
 - Final security plan document with mitigation proposals
 
-📂 Folder: `lab02-risk-assessment/`
-
 ---
 
 ## 🧠 Threat Card Analysis
 
 Includes detailed mapping of adversary motivations, resources, methods, and human impacts using the 42-card methodology.
-
-📄 See: `threat-cards-analysis.md`
 
 ---
 
@@ -50,7 +44,3 @@ Includes detailed mapping of adversary motivations, resources, methods, and huma
 - AIDE, Fail2Ban, iptables, ufw, lynis
 
 ---
-
-## 📚 License
-
-This project is released for academic and educational purposes. All rights reserved by the authors.
